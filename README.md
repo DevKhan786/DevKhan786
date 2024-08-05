@@ -7,4 +7,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devkhan786&show_icons=true&theme=radical&locale=en&layout=compact" alt="devkhan786" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkhan786&show_icons=true&theme=radical&locale=en" alt="devkhan786" /></p>
+
