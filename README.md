@@ -1,7 +1,7 @@
-<h1 align="left">Hi, I'm Hamza Khan 👋</h1>
+<h1 align="center">Hi, I'm Hamza Khan 👋</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devkhan786&label=Profile%20views&color=ff0000&style=plastic" alt="devkhan786" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devkhan786&label=Profile%20views&color=ff0000&style=plastic" alt="devkhan786" /> </p>
 
 
 
