@@ -12,7 +12,6 @@ Tools: [Git, Github, Adobe Suite]
 
 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devkhan786&show_icons=true&theme=radical" alt="Hamza Khan's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devkhan786&show_icons=true&theme=radical&locale=en&layout=compact" alt="Most Used Languages" />
 </p>
 
