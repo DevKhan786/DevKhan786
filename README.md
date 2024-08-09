@@ -3,10 +3,6 @@
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on a **Blog Site**.
-- 🌱 I’m currently learning **Firebase**.
-
 ## 🛠️ Technologies & Tools
 - **Languages:**  
   ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
