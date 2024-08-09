@@ -27,5 +27,3 @@
 </p>
 
 ---
-
-Thank you for visiting my profile! Feel free to connect or follow my work.
