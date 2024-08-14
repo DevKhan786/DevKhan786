@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hamza Khan 👋</h1>
 <p align="center">Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in front-end development. With a commitment to writing clean, efficient code and a knack for problem-solving, I strive to create impactful solutions and continually expand my knowledge.</p>
 
----
+
 
 ## 🛠️ Technologies & Tools
 - **Languages:**  
