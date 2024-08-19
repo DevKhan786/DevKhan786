@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Hamza Khan 👋</h1>
 <p align="center">Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in front-end development. With a commitment to writing clean, efficient code and a knack for problem-solving, I strive to create impactful solutions and continually expand my knowledge.</p>
 
-
-
 ## 🛠️ Technologies & Tools
 - **Languages:**  
   ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
@@ -15,11 +13,13 @@
 - **Frameworks:**  
   ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
   ![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?style=flat-square&logo=tailwindcss&logoColor=white) <!-- Added Tailwind CSS badge -->
 
 - **Tools:**  
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
   ![Adobe Suite](https://img.shields.io/badge/-Adobe_Suite-red?style=flat-square&logo=adobe&logoColor=white)
+  ![Stripe](https://img.shields.io/badge/-Stripe-blue?style=flat-square&logo=stripe&logoColor=white) <!-- Added Stripe badge -->
 
 ## 📈 GitHub Stats
 <p align="center">
