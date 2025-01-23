@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Hamza Khan 👋</h1>
-<p align="center">Welcome to my GitHub profile!</p>
 
 ## 🛠️ Technologies & Tools
 - **Languages:**  
