@@ -8,7 +8,6 @@
 ## 🛠️ Technical Skills
 
 **Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-ES6+-yellow?logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
