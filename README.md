@@ -8,7 +8,7 @@
 ## 🛠️ Technical Skills
 
 **Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-ES6+-yellow?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ES6+-yellow?logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
@@ -37,23 +37,6 @@
 - Audited AI-generated code for compliance, achieving 100% adherence to performance standards  
 - Enhanced LLM outputs by integrating JavaScript frameworks (+15% response accuracy)  
 
-## 🚀 Featured Projects
-
-### [Full-stack E-commerce Site](https://hamzakhan.site/)
-**Tech:** React • TypeScript • Node.js • Redux • JWT  
-- Built REST APIs and managed authentication, eliminating unauthorized access  
-- Designed responsive UI with Figma, improving load times by 20%  
-
-### [Spotify Clone](https://hamzakhan.site/)
-**Tech:** React • Zustand • Tailwind CSS • CLERK  
-- Achieved 95% Lighthouse accessibility score  
-- Reduced authentication failures by 40% with JWT & CLERK  
-
-### [Twitter Clone](https://hamzakhan.site/)
-**Tech:** React • Node.js • React Query • Shaden UI  
-- Optimized API response times by 25% with React Query  
-- Implemented real-time updates and dynamic post features  
-
 ## 📚 Education
 
 **FreeCodeCamp**  
@@ -67,5 +50,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devkhan786&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkhan786&theme=radical" alt="GitHub Streak" />
 </p>
