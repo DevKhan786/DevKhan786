@@ -43,7 +43,7 @@
 
 **Brune! University**  
 *MA Digital Games: Theory & Design* (2022–2023)  
-*BSc Computer Science (2:1)* (2018–2021)  
+*BSc Computer Science * (2018–2021)  
 
 ## 📈 GitHub Stats
 
