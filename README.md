@@ -32,9 +32,9 @@
 
 ### **Coding Samurai**  
 **Web Development Intern** (Ongoing) ⋅ Feb 2025 – Mar 2025  
-- Contributed to live full-stack projects under mentorship, including a JWT-authenticated e-commerce app with Redux and Stripe integration.  
+- Contributed to live full-stack projects under mentorship utilising AGILE methodology.
 - Built a real-time chat application using Socket.IO and WebSockets, enabling seamless user communication.  
-- Focused on advanced MERN stack implementations and performance optimization.  
+- Developed a JWT-authenticated e-commerce app with Redux and Stripe integration.   
 
 ### **Outlier AI**  
 **Freelance Software Developer** (2024 – Present)  
