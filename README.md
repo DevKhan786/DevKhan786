@@ -45,11 +45,11 @@
 ## 📚 Education
 
 **FreeCodeCamp**  
-*Certifications in Responsive Web Design & JS Algorithms* (2024)  
+* Certifications in Responsive Web Design & JS Algorithms (2024)  
 
 **Brunel University**  
-* MA Digital Games: Theory & Design *  (2022–2023)  
-* BSc Computer Science * (2018–2021)  
+* MA Digital Games: Theory & Design (2022–2023)  
+* BSc Computer Science (2018–2021)  
 
 ## 📈 GitHub Stats
 
