@@ -40,16 +40,16 @@
 **Freelance Software Developer** (2024 – Present)  
 - Refactored 50+ modules of junior developers' code, reducing runtime bugs.
 - Audited AI-generated code to ensure 100% compliance with performance standards.
-- Enhanced LLM response accuracy by 15% through JavaScript framework integrations.  
+- Enhanced LLM response accuracy through JavaScript framework integrations.  
 
 ## 📚 Education
 
 **FreeCodeCamp**  
 *Certifications in Responsive Web Design & JS Algorithms* (2024)  
 
-**Brune! University**  
-*MA Digital Games: Theory & Design* (2022–2023)  
-*BSc Computer Science * (2018–2021)  
+**Brunel University**  
+* MA Digital Games: Theory & Design *  (2022–2023)  
+* BSc Computer Science * (2018–2021)  
 
 ## 📈 GitHub Stats
 
