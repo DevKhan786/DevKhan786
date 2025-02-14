@@ -30,11 +30,17 @@
 
 ## 💼 Professional Experience
 
+### **Coding Samurai**  
+**Web Development Intern** (Ongoing) ⋅ Feb 2025 – Mar 2025  
+- Contributed to live full-stack projects under mentorship, including a JWT-authenticated e-commerce app with Redux and Stripe integration.  
+- Built a real-time chat application using Socket.IO and WebSockets, enabling seamless user communication.  
+- Focused on advanced MERN stack implementations and performance optimization.  
+
 ### **Outlier AI**  
 **Freelance Software Developer** (2024 – Present)  
-- Refactored 50+ modules of junior developers' code, reducing bugs by 20%  
-- Audited AI-generated code for compliance, achieving 100% adherence to performance standards  
-- Enhanced LLM outputs by integrating JavaScript frameworks (+15% response accuracy)  
+- Refactored 50+ modules of junior developers' code, reducing runtime bugs.
+- Audited AI-generated code to ensure 100% compliance with performance standards.
+- Enhanced LLM response accuracy by 15% through JavaScript framework integrations.  
 
 ## 📚 Education
 
