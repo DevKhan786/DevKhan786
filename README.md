@@ -31,7 +31,7 @@
 ## 💼 Professional Experience
 
 ### **Coding Samurai**  
-**Web Development Intern** (Ongoing) ⋅ Feb 2025 – Mar 2025  
+**Web Development Intern** ⋅ Feb 2025 – Mar 2025  
 - Contributed to live full-stack projects under mentorship utilising AGILE methodology.
 - Built a real-time chat application using Socket.IO and WebSockets, enabling seamless user communication.  
 - Developed a JWT-authenticated e-commerce app with Redux and Stripe integration.   
