@@ -40,20 +40,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?logo=amazonec2&logoColor=white)
 
-## 📚 Education
-
-**Udemy**  
-*React Testing Library, Jest, and Playwright Automation Certifications* | *Mar 2025*  
-
-**FreeCodeCamp**  
-*Responsive Web Design & JavaScript Algorithms Certifications* | *Jun 2024*  
-
-**Brunel University**  
-*MA Digital Games: Theory & Design* | *Sep 2022 – Sep 2023*  
-
-**Brunel University**  
-*BSc Computer Science: Second Class Honours* | *Sep 2018 – Sep 2021*  
-
 ## 📈 GitHub Stats
 
 <p align="center">
