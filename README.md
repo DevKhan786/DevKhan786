@@ -39,9 +39,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?logo=amazonec2&logoColor=white)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devkhan786&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-</p>
-
