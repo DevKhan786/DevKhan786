@@ -40,35 +40,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?logo=amazonec2&logoColor=white)
 
-## 💼 Professional Experience
-
-### **Outlier AI**  
-**Contract Software Developer** | *Sep 2024 – Present*  
-- Debugged Junior TypeScript React/Next.js codebases to improve web application code quality.  
-- Generated complex coding prompts using React and Next.js to test and enhance AI large language models.  
-- Conducted code quality audits for AI-generated web development outputs using JavaScript and TypeScript.  
-
-### **CodingSamurai**  
-**Web Development Intern** | *Feb 2025 – Mar 2025*  
-- Implemented MERN stack e-commerce platform with JWT authentication and Stripe payment integration.  
-- Built real-time chat application with a Node.js backend using Socket.IO for realtime user communication.  
-- Collaborated with agile development teams in a competitive four-week internship using Git version control.  
-
-## 🚀 Projects
-
-### **FPSBlogs**  
-*Next.js, TypeScript, Firebase, Tailwind, Framer Motion, Recharts, Jest, Context API*  
-- Built SEO optimized social platform with real-time updates using Firebase Firestore database.  
-- Implemented Tiptap rich-text editor with SSR image uploads and Recharts data visualization.  
-- Implemented Jest unit tests for core utilities and API endpoints to ensure functional reliability.  
-
-### **NextAI**  
-*TypeScript, React, Express, Node.js, MongoDB, Jest, AWS EC2, Docker, AI Google Gemini*  
-- Configured CI/CD pipeline using GitHub Actions with Docker containerization to AWS EC2.  
-- Created MERN AI chat assistant, integrating AI for multi-modal context-aware responses.  
-- Implemented Jest unit testing for core functionality validation including API endpoint testing.  
-
-
 ## 📚 Education
 
 **Udemy**  
@@ -89,6 +60,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devkhan786&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devkhan786&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
