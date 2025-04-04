@@ -2,7 +2,6 @@
 <p align="center">
   London • <a href="mailto:HKVain786@gmail.com">HKVain786@gmail.com</a> • 
   <a href="https://hamzakhan.site/">Portfolio</a> • 
-  <a href="https://github.com/devkhan786">GitHub</a> •
   <a href="https://www.linkedin.com/in/hamzakhan786">LinkedIn</a>
 </p>
 
